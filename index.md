@@ -1,3 +1,7 @@
+---
+layout: default
+title: Poetical Aviary, with a bird's-eye view of the English poets.  Ms. notes
+---
 <!-- This file was created from text provided by the British Library. --> 
 
 
